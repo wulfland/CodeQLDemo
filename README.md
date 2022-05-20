@@ -2,7 +2,7 @@
 
 This is the demo I used in my Security in DevOps Talk. To follow along set up your environment like this:
 
-1. Install [CodeQL extension for Visual Studio Code](https://help.semmle.com/codeql/codeql-for-vscode.html)
+1. Install [CodeQL extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-codeql)
 2. ```git clone --recursive https://github.com/github/vscode-codeql-starter.git```
 3. Open the workspace file in the workspace
 4. Add this repo as a folder in the workspace
