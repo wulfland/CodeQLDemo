@@ -1,6 +1,7 @@
 import javascript
+import DataFlow::PathGraph
 
-// find all calls to jQuery $
+// sink
 
 from DataFlow::Node dollarArg
 where
